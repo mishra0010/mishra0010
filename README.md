@@ -49,15 +49,8 @@ Welcome to my GitHub! I’m a 2024 graduate in **Information Technology**, and a
 
 ## 📝 My Research Work
 
-My research paper was published in **IEEE** during my college years, focusing on applied technology in the real world. *(Let me know if you want to link the paper!)*
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit-mishra&show_icons=true&theme=github_dark&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-mishra&layout=compact&theme=github_dark)
-
+My research paper was published in **IEEE** during my college years, focusing on applied technology in the real world.
+Link to the paper - https://ieeexplore.ieee.org/document/10730078
 
 ---
 
