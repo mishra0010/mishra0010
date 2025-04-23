@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Harshit Mishra
 
-Welcome to my GitHub! I’m a 2024 graduate in **Information Technology**, and a passionate developer and researcher blending theory with real-world problem solving. My journey so far has taken me across **data science**, **machine learning**, **software development**, and now into the fascinating world of **cloud and AI infrastructure**.
+Welcome to my GitHub! I’m a 2024 graduate in **Information Technology**, and a passionate learner and researcher blending theory with real-world problem solving. My journey so far has taken me across **data science**, **machine learning**, **software development**, and now into the fascinating world of **cloud and AI infrastructure**.
 
 ---
 
